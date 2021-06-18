@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/amsIII/FAQ-Accordion-Card-Challenge/static/css/main.3508709a.chunk.css",
+    "main.js": "/amsIII/FAQ-Accordion-Card-Challenge/static/js/main.16d3a5e6.chunk.js",
+    "main.js.map": "/amsIII/FAQ-Accordion-Card-Challenge/static/js/main.16d3a5e6.chunk.js.map",
+    "runtime-main.js": "/amsIII/FAQ-Accordion-Card-Challenge/static/js/runtime-main.dfd5e58e.js",
+    "runtime-main.js.map": "/amsIII/FAQ-Accordion-Card-Challenge/static/js/runtime-main.dfd5e58e.js.map",
+    "static/js/2.40c17125.chunk.js": "/amsIII/FAQ-Accordion-Card-Challenge/static/js/2.40c17125.chunk.js",
+    "static/js/2.40c17125.chunk.js.map": "/amsIII/FAQ-Accordion-Card-Challenge/static/js/2.40c17125.chunk.js.map",
+    "static/js/3.ce3dface.chunk.js": "/amsIII/FAQ-Accordion-Card-Challenge/static/js/3.ce3dface.chunk.js",
+    "static/js/3.ce3dface.chunk.js.map": "/amsIII/FAQ-Accordion-Card-Challenge/static/js/3.ce3dface.chunk.js.map",
+    "index.html": "/amsIII/FAQ-Accordion-Card-Challenge/index.html",
+    "static/css/main.3508709a.chunk.css.map": "/amsIII/FAQ-Accordion-Card-Challenge/static/css/main.3508709a.chunk.css.map",
+    "static/js/2.40c17125.chunk.js.LICENSE.txt": "/amsIII/FAQ-Accordion-Card-Challenge/static/js/2.40c17125.chunk.js.LICENSE.txt",
+    "static/media/bg-pattern-desktop.f51e07a2.svg": "/amsIII/FAQ-Accordion-Card-Challenge/static/media/bg-pattern-desktop.f51e07a2.svg",
+    "static/media/bg-pattern-mobile.55aee912.svg": "/amsIII/FAQ-Accordion-Card-Challenge/static/media/bg-pattern-mobile.55aee912.svg",
+    "static/media/icon-arrow-down.852fa301.svg": "/amsIII/FAQ-Accordion-Card-Challenge/static/media/icon-arrow-down.852fa301.svg",
+    "static/media/illustration-box-desktop.ec1ba14b.svg": "/amsIII/FAQ-Accordion-Card-Challenge/static/media/illustration-box-desktop.ec1ba14b.svg",
+    "static/media/illustration-woman-online-desktop.843eb114.svg": "/amsIII/FAQ-Accordion-Card-Challenge/static/media/illustration-woman-online-desktop.843eb114.svg",
+    "static/media/illustration-woman-online-mobile.0ec5a893.svg": "/amsIII/FAQ-Accordion-Card-Challenge/static/media/illustration-woman-online-mobile.0ec5a893.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dfd5e58e.js",
+    "static/js/2.40c17125.chunk.js",
+    "static/css/main.3508709a.chunk.css",
+    "static/js/main.16d3a5e6.chunk.js"
+  ]
+}
