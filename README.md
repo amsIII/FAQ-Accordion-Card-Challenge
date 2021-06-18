@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click Here](https://www.frontendmentor.io/solutions/3column-preview-card-component-using-react-andand-styled-components-k1HlMn92M)
-- Live Site URL: [Click Here](https://amsiii.github.io/3-column-card/)
+- Solution URL: [Click Here](https://www.frontendmentor.io/solutions/faq-accordion-card-challenge-using-reactjs-and-styled-components-pfv133dFd)
+- Live Site URL: [Click Here](https://amsiii.github.io/FAQ-Accordion-Card-Challenge/)
 
 ## My process
 
